@@ -1,0 +1,45 @@
+header{
+    height: 50px;/*alto*/
+    width: 100%; /*ancho*/
+    background-color: orange;
+    text-align: center;
+}
+
+nav{   
+    height: 100%;
+    width: 100%;
+    background-color: rgb(9, 255, 0);
+    text-align: center;
+}
+
+article{
+    height: 100px;
+    width: 100%;
+    background-color: blueviolet;
+    text-align: center;
+    
+    
+
+}
+
+footer{
+    height: 50px;
+    width: 100%;
+    background-color: seagreen;
+    text-align: center;
+
+}
+
+#contenedor1{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+#contenedor2{
+
+}
+
+#contenedor3{
+
+}
+
