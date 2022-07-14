@@ -1,0 +1,16 @@
+h1{
+    font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div{
+    margin: auto;
+    text-align: center;
+    background-color:aqua;
+    height: 150px ; /* Alto*/
+    width: 25%; /*Ancho*/
+}
+
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
